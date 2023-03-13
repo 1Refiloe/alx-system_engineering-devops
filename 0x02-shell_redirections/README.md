@@ -22,3 +22,4 @@ This directory contains scripts which will do the following
 20. Removes all letters c and C from input
 21. Reverses its input
 22. Displays all users and their home directories, sorted by users.
+22. Displays all users and their home directories, sorted by users.
